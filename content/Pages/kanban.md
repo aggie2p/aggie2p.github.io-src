@@ -2,6 +2,7 @@ Title: Kanban
 Category: Kanban
 Date: 01/27/2020
 Status: hidden
+Slug: Kanban
 url: pages/kanban.html
 save_as: pages/kanban.html
 

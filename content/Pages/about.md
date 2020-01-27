@@ -1,7 +1,7 @@
 Title: About
 Category: About
 Date: 01/18/2020
-Slug: about
+Slug: About
 Status: hidden
 url: pages/about.html
 save_as: pages/about.html
