@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Group-3'
 SITENAME = 'TCMG 412-Group Three'
-
+#SITEURL = 'https://aggie2p.github.io'
 
 PATH = 'content'
 
@@ -25,8 +25,8 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('About', '/pages/about.html'),
-		 ('Our Team', '/pages/team.html'),
+         ('About', '../pages/about.html'),
+		 ('Our Team', '../pages/team.html'),
          ('Kanban', '/pages/kanban.html'),
          ('TAMU TCMG', 'https://eahr.tamu.edu/academics/technology-management/'),)
 
