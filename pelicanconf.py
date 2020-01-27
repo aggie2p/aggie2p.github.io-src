@@ -25,9 +25,9 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('About', '../pages/about.html'),
-		 ('Our Team', '../pages/team.html'),
-         ('Kanban', '/pages/kanban.html'),
+         ('About Class', '/pages/about.html'),
+		 ('Our Team', '/pages/team.html'),
+         ('What is Kanban', '/pages/kanban.html'),
          ('TAMU TCMG', 'https://eahr.tamu.edu/academics/technology-management/'),)
 
 # Social widget
@@ -37,4 +37,4 @@ SOCIAL = (('Facebook', 'https://www.facebook.com/tamu/'),
 DEFAULT_PAGINATION = 3
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+#RELATIVE_URL = TRUE
