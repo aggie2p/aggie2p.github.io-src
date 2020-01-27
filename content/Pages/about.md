@@ -1,7 +1,10 @@
-Title: About Us
-Category: About Us
+Title: About
+Category: About
 Date: 01/18/2020
-Slug: About
+Slug: about
+Status: hidden
+url: pages/about.html
+save_as: pages/about.html
 
 # What is DevOps?
 > DevOps is a set of practices that automates the processes between software development and IT teams, in order that they can build, test, and release software faster and more reliably. The concept of DevOps is founded on building a culture of collaboration between teams that historically functioned in relative siloes. The promised benefits include increased trust, faster software releases, ability to solve critical issues quickly, and better manage unplanned work.
