@@ -10,3 +10,4 @@ Slug: HTMLInfo
 > HTML is the standard markup language for Web pages
 > HTML elements are the building blocks of HTML pages
 > HTML elements are represented by "<>" tags
+> Browsers do not display the HTML tags, but use them to render the content of the page.
